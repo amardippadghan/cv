@@ -1,0 +1,31 @@
+
+body {
+background-color: #EAF6F6;
+
+}
+
+hr{
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-color: #9D9D9D;
+  border-width: 6px;
+
+  width: 5%;
+
+}
+
+h1{
+  color: #66BFBF;
+    
+    letter-spacing: 5px;
+
+}
+h2 {
+  color: #66BFBF;
+
+
+}
+h3{
+  color: #66BFBF;
+
+}
